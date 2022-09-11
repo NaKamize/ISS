@@ -1,0 +1,5 @@
+soundfile
+numpy
+matplotlib
+scipy
+copy
